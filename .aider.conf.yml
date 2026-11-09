@@ -1,0 +1,3 @@
+# Aider reads AGENTS.md natively; this keeps it explicit.
+read:
+  - AGENTS.md

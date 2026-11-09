@@ -1,0 +1,7 @@
+id,group,marker_1,feature_1,feature_2
+PAT001,cohort_a,mut,1.2,3.4
+PAT002,cohort_a,wt,2.1,2.9
+PAT003,cohort_a,unknown,1.8,3.1
+PAT004,cohort_a,mut,1.5,3.0
+PAT005,cohort_b,wt,4.2,5.1
+PAT006,cohort_b,unknown,3.9,4.8

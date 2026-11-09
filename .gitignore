@@ -1,0 +1,34 @@
+# data and generated outputs
+data/
+cache/
+output/
+debug/
+
+# R artifacts
+*.rds
+*.RData
+.Rhistory
+.Rproj.user/
+.Ruserdata/
+
+# figures and documents produced by examples
+*.pdf
+*.png
+*.xlsx
+*.html
+
+# local configuration
+.env
+.env.*
+denylist.txt
+replacements.txt
+
+# editor and OS noise
+.DS_Store
+.idea/
+.vscode/
+
+# aider session artifacts (keep .aider.conf.yml)
+.aider.chat.history.md
+.aider.input.history
+.aider.tags.cache*
